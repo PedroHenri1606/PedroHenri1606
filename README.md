@@ -2,7 +2,7 @@
 
 -🔭 Em busca de me tornar um programador Front-End.
 
--🌱 Estudando: JavaScript, "React".
+-🌱 Estudando: Java.
 
 <div align="center">
   <a href="https://github.com/PedroHenri1606">
