@@ -1,6 +1,6 @@
 ## Olá, eu sou Pedro Henrique Vieira 👋
 
--🔭 Em busca de me tornar um programador Front-End.
+-🔭 Em busca de me tornar um programador Back-End.
 
 -🌱 Estudando: Java.
 
