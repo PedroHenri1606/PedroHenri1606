@@ -2,7 +2,7 @@
 
 -🔭 Em busca de me tornar um programador Back-End.
 
--🌱 Estudando: Java.
+-🌱 Estudando: FrameWorks em Java / Banco de dados PostGreSQL.
 
 <div align="center">
   <a href="https://github.com/PedroHenri1606">
