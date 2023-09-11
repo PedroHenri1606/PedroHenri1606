@@ -4,11 +4,6 @@
 
 -🌱 Estudando: FrameWorks em Java / Banco de dados PostGreSQL.
 
-<div align="left">
-  <a href="https://github.com/PedroHenri1606">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=PedroHenri1606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
