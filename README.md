@@ -2,7 +2,7 @@
 
 -🔭 Em busca de me tornar um programador Back-End.
 
--🌱 Estudando: FrameWorks em Java / Banco de dados PostGreSQL.
+-🌱 Estudando: Spring Boot / Banco de dados PostGreSQL.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
