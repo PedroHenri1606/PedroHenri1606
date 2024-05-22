@@ -1,6 +1,6 @@
 ## Eu sou Pedro Henrique Vieira 👋
 
--🔭 Em busca de me tornar um programador Back-End.
+-🔭 Um programador Full-Stack.
 
 
 
