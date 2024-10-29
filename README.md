@@ -1,6 +1,7 @@
 ## Eu sou Pedro Henrique Vieira 👋
 
--🔭 Um programador Full-Stack.
+-🔭 Desenvolvendo em Laravel.
+-👨‍💻 Desenvolvedor do Painel Genius
 
 
 
