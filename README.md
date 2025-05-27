@@ -45,7 +45,7 @@
 ```bash
 - Laravel, Pest, 
 - Spring Boot, JPA, Hibernate
-- Docker, Docker Compose, NGINX, PHP-FPM
+- Docker, Docker Compose, NGINX, PHP-FPM, Jenkins
 - PostgreSQL, MySQL, MongoDB, Redis,
 - API RESTful, OAuth2, JWT, Webhooks
 ```
